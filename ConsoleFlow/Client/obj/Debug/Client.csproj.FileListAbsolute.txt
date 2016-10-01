@@ -1,0 +1,7 @@
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\ConsoleFlow\Client\bin\Debug\Client.exe
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\ConsoleFlow\Client\bin\Debug\Client.pdb
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\ConsoleFlow\Client\obj\Debug\Client.exe
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\ConsoleFlow\Client\obj\Debug\Client.pdb
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\ConsoleFlow\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\ConsoleFlow\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\ConsoleFlow\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
