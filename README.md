@@ -1,5 +1,5 @@
 # ConsoleFlow
-A console RAT developed by FORC3FI3LD
+A console RAT
 This is not really a RAT i know:)
 
 HF Thread:
